@@ -1,3 +1,34 @@
-.container > .title {
+.monaco-workbench.windows.chromium {
+  top: -30px !important;
+  height: calc(100% + 30px);
+}
+
+.editor-actions {
   display: none !important;
+}
+
+.window-controls-container {
+  position: fixed !important;
+  right: 0 !important;
+  top: 0 !important;
+  z-index: 99999 !important;
+  height: 2vh !important;
+}
+
+.monaco-workbench .part.titlebar>.titlebar-container>.window-controls-container>.window-icon {
+  font-size: 1vh !important;
+  width: 2.5vh !important;
+  line-height: 2vh !important;
+}
+
+.window-appicon {
+  display: none !important;
+}
+
+.auxiliarybar>.composite.title>.global-actions>.monaco-toolbar {
+  display: none !important;
+}
+
+.content {
+  height: calc(100vh + 30px) !important;
 }
