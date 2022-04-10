@@ -32,3 +32,27 @@
 .content {
   height: calc(100vh + 30px) !important;
 }
+
+.monaco-grid-view>.monaco-grid-branch-node>.monaco-split-view2>.monaco-scrollable-element>.split-view-container>.split-view-view.visible:nth-child(3) {
+  height: 100vh !important;
+}
+
+.split-view-view.visible>.monaco-grid-branch-node>.monaco-split-view2>.monaco-scrollable-element>.split-view-container>.split-view-view.visible:nth-child(1) {
+  height: 100vh !important;
+}
+
+.editor-container {
+  height: 100% !important;
+}
+
+.monaco-editor {
+  height: 100% !important;
+}
+
+.overflow-guard {
+  height: 100% !important;
+}
+
+.editor-scrollable {
+  height: 100% !important;
+}
