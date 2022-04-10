@@ -30,19 +30,19 @@
 }
 
 .activitybar>content {
-  height: calc(100vh + 30px) !important;
+  height: 100vh !important;
 }
 
 .sidebar>content {
-  height: calc(100vh + 30px) !important;
+  height: 100vh !important;
 }
 
 .editor>content {
-  height: calc(100vh + 30px) !important;
+  height: 100vh !important;
 }
 
 .auxiliarybar>content {
-  height: calc(100vh + 30px) !important;
+  height: 100vh !important;
 }
 
 .monaco-grid-view>.monaco-grid-branch-node>.monaco-split-view2>.monaco-scrollable-element>.split-view-container>.split-view-view.visible:nth-child(3) {
