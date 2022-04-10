@@ -46,7 +46,7 @@
 }
 
 .basepanel>.content {
-  padding: 30px !important;
+  padding-bottom: 30px !important;
 }
 
 .monaco-grid-view>.monaco-grid-branch-node>.monaco-split-view2>.monaco-scrollable-element>.split-view-container>.split-view-view.visible:nth-child(3) {
