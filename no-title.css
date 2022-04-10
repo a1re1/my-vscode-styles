@@ -29,7 +29,19 @@
   display: none !important;
 }
 
-.content {
+.activitybar.content {
+  height: calc(100vh + 30px) !important;
+}
+
+.sidebar.content {
+  height: calc(100vh + 30px) !important;
+}
+
+.editor.content {
+  height: calc(100vh + 30px) !important;
+}
+
+.auxiliarybar.content {
   height: calc(100vh + 30px) !important;
 }
 
