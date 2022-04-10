@@ -1,6 +1,6 @@
 .monaco-workbench.windows.chromium {
   top: -30px !important;
-  height: calc(100% + 30px);
+  height: calc(100vh + 30px) !important;
 }
 
 .editor-actions {
