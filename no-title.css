@@ -29,19 +29,19 @@
   display: none !important;
 }
 
-.activitybar>content {
+.activitybar>.content {
   height: 100vh !important;
 }
 
-.sidebar>content {
+.sidebar>.content {
   height: 100vh !important;
 }
 
-.editor>content {
+.editor>.content {
   height: 100vh !important;
 }
 
-.auxiliarybar>content {
+.auxiliarybar>.content {
   height: 100vh !important;
 }
 
