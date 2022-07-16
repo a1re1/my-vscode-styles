@@ -30,6 +30,7 @@
         "editor.inactiveSelectionBackground": "#5B6A2860",
         "editor.selectionHighlightBackground": "#5B6A2860",
         "editor.selectionHighlightBorder": "#fce8c3a0",
+        
         "editor.wordHighlightBackground": "#fbb829a0",
         "editor.wordHighlightBorder": "#fbb82900",
         "editor.wordHighlightStrongBackground": "#e02c6da0",
