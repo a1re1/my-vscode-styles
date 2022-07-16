@@ -149,10 +149,10 @@
         "terminal.ansiMagenta": "#e02c6d",
         "terminal.ansiRed": "#ef2f27",
         "terminal.ansiWhite": "#d0bfa1",
-        "terminal.ansiYellow": "#fbb829",
+        "terminal.ansiYellow": "#ffce63",
         "terminal.background": "#1e1f22",
         "terminalCursor.foreground": "#6A7C2A",
-        "terminal.foreground": "#fce8c3",
+        "terminal.foreground": "#ffffff",
         "textBlockQuote.background": "#2d2c29",
         "textBlockQuote.border": "#2d2c2900",
         "textCodeBlock.background": "#1e1f22",
@@ -177,14 +177,14 @@
             "name": "Comment",
             "scope": "comment",
             "settings": {
-                "foreground": "#499e4f"
+                "foreground": "#67be6d"
             }
         },
         {
             "name": "String",
             "scope": "string",
             "settings": {
-                "foreground": "#60a03f"
+                "foreground": "#7fc45d"
             }
         },
         {
@@ -262,7 +262,7 @@
             "scope": "entity.name.function",
             "settings": {
                 "fontStyle": "",
-                "foreground": "#ffb124"
+                "foreground": "#f8cc7b"
             }
         },
         {
@@ -313,7 +313,7 @@
             ],
             "settings": {
                 "fontStyle": "italic",
-                "foreground": "#2c78bf"
+                "foreground": "#4a94da"
             }
         },
         {
@@ -357,7 +357,7 @@
         {
             "scope": "punctuation.definition.quote.begin.markdown",
             "settings": {
-                "foreground": "#fbb829"
+                "foreground": "#f9cd6d"
             }
         },
         {
@@ -377,7 +377,7 @@
             "name": "[VSCODE-CUSTOM] Markdown Inline Raw String",
             "scope": "markup.inline.raw.string.markdown",
             "settings": {
-                "foreground": "#fbb829"
+                "foreground": "#f6c866"
             }
         },
         {
